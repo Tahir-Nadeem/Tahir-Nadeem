@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammad Danish Khattak</h1>
+<h1 align="center">Hi 👋, I'm Mian Tahir Nadeemk</h1>
 
-- 📖 I'm a research assistant at Information Processing and Transmission (IPT) Lab, NUST
-- 🧠 Harnessing reinforcement learning–driven intelligence for adaptive network optimization and real-time performance tuning within 6G networks (●’◡’●)  
+- 📖 I'm an Analog Chip Design Engineer`at NUST Chip Design Center (NCDC), NUST
+- 🧠 //Harnessing reinforcement learning–driven intelligence for adaptive network optimization and real-time performance tuning within 6G networks// (●’◡’●)  
 - 🤝 Always game for wild collabs—deep dives or quick sprints! ༼ つ ◕_◕ ༽つ  
 
 <h3 align="left">Languages and Tools:</h3>
