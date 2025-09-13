@@ -94,10 +94,10 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-  <a href="mailto:mkhattak.bee22seecs@seecs.edu.pk" target="_blank">
+  <a href="mailto:mnadeem.bee22seecs@seecs.edu.pk" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/danish-khattak-1a9b00274" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/mian-tahir-nadeem-b13a0a2b7" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
